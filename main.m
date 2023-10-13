@@ -1,4 +1,3 @@
-tic
 clc;clear;close all;
 %% 
 class_data = struct2cell(load('D:\USER\Desktop\0611_project\2class_data\rest_level1_1_40_60.mat'));
